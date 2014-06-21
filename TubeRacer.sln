@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TubeRacer", "TubeRacer\TubeRacer\TubeRacer.csproj", "{9E4AF573-70AD-4CDF-9DDB-490067D5B2C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TubeRacerContent", "TubeRacer\TubeRacerContent\TubeRacerContent.contentproj", "{1D1C2EC3-879F-4262-836D-A4A9E815408D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RibbonsRedux", "RibbonsRedux\RibbonsRedux.csproj", "{132DB880-7014-4E8C-83F6-1B968870F4F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextProcessor", "TextProcessor\TextProcessor.csproj", "{1C39DD3A-25D2-495E-B4B9-D1687113DDFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TubeLibrary", "TubeLibrary\TubeLibrary.csproj", "{379DBF7B-B8A5-4F6F-8775-F85E9E0E58BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E4AF573-70AD-4CDF-9DDB-490067D5B2C9}.Debug|x86.ActiveCfg = Debug|x86
+		{9E4AF573-70AD-4CDF-9DDB-490067D5B2C9}.Debug|x86.Build.0 = Debug|x86
+		{9E4AF573-70AD-4CDF-9DDB-490067D5B2C9}.Release|x86.ActiveCfg = Release|x86
+		{9E4AF573-70AD-4CDF-9DDB-490067D5B2C9}.Release|x86.Build.0 = Release|x86
+		{1D1C2EC3-879F-4262-836D-A4A9E815408D}.Debug|x86.ActiveCfg = Debug|x86
+		{1D1C2EC3-879F-4262-836D-A4A9E815408D}.Release|x86.ActiveCfg = Release|x86
+		{132DB880-7014-4E8C-83F6-1B968870F4F4}.Debug|x86.ActiveCfg = Debug|x86
+		{132DB880-7014-4E8C-83F6-1B968870F4F4}.Debug|x86.Build.0 = Debug|x86
+		{132DB880-7014-4E8C-83F6-1B968870F4F4}.Release|x86.ActiveCfg = Release|x86
+		{132DB880-7014-4E8C-83F6-1B968870F4F4}.Release|x86.Build.0 = Release|x86
+		{1C39DD3A-25D2-495E-B4B9-D1687113DDFE}.Debug|x86.ActiveCfg = Debug|x86
+		{1C39DD3A-25D2-495E-B4B9-D1687113DDFE}.Debug|x86.Build.0 = Debug|x86
+		{1C39DD3A-25D2-495E-B4B9-D1687113DDFE}.Release|x86.ActiveCfg = Release|x86
+		{1C39DD3A-25D2-495E-B4B9-D1687113DDFE}.Release|x86.Build.0 = Release|x86
+		{379DBF7B-B8A5-4F6F-8775-F85E9E0E58BF}.Debug|x86.ActiveCfg = Debug|x86
+		{379DBF7B-B8A5-4F6F-8775-F85E9E0E58BF}.Debug|x86.Build.0 = Debug|x86
+		{379DBF7B-B8A5-4F6F-8775-F85E9E0E58BF}.Release|x86.ActiveCfg = Release|x86
+		{379DBF7B-B8A5-4F6F-8775-F85E9E0E58BF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

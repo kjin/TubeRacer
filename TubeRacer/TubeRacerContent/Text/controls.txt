@@ -1,0 +1,44 @@
+# Keyboard controls
+menuLeft.key = Left
+menuRight.key = Right
+menuUp.key = Up
+menuDown.key = Down
+menuForward.key0 = Enter
+menuForward.key1 = Space
+menuBackward.key = Escape
+seamstressLeft.key = Left
+seamstressRight.key = Right
+seamstressJump.key0 = Up
+seamstressJump.key1 = Space
+ribbonLeft.key = A
+ribbonRight.key = D
+ribbonFlip.key = W
+cameraLeft.key = J
+cameraRight.key = L
+cameraUp.key = I
+cameraDown.key = K
+pause.key = Enter
+screencap.key = OemTilde
+debug1.key = V
+
+# Gamepad Controls
+menuLeft.leftjoystick = (-1, 0)
+menuRight.leftjoystick = (1, 0)
+menuUp.leftjoystick = (0, 1)
+menuDown.leftjoystick = (0, -1)
+menuForward.button0 = Start
+menuForward.button1 = A
+menuBackward.button0 = Back
+menuBackward.button1 = B
+seamstressLeft.leftjoystick = (-1, 0)
+seamstressRight.leftjoystick = (1, 0)
+seamstressJump.button = A
+ribbonLeft.lefttrigger = true
+ribbonRight.righttrigger = true
+ribbonFlip.button0 = X
+ribbonFlip.button1 = B
+cameraLeft.rightjoystick = (-1, 0)
+cameraRight.rightjoystick = (1, 0)
+cameraUp.rightjoystick = (0, 1)
+cameraDown.rightjoystick = (0, -1)
+pause.button = Start
